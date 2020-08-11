@@ -1,0 +1,24 @@
+.container{
+    margin-top: 150px;
+}
+#login-area, .submit-area{
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#text-area{
+    display: none;
+}
+.card{
+    border: none;
+    border-radius: 32px;
+}
+.box1{
+    background: rgb(157, 78, 230);
+}
+.box2{
+    background: tomato;
+}
+.box3{
+    background: rgb(0, 189, 79);
+}
